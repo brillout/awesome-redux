@@ -18,7 +18,7 @@ There is no format for the learn section.
 I'm open to maintain this list with others. We could create a GitHub organization.
 
 
-#### Table of Content
+#### Contents
 - [Learn Material](#learn-material)
 - [Code Architecture](#code-architecture)
 - [Utilities](#utilities)
