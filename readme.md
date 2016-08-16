@@ -1,17 +1,17 @@
 ## Awesome Redux [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Curated List of Redux Libraries / Tools / Learn Material.
+Curated List of Redux Libraries / Tools / Learning Material.
 
 ###### Contribution
 
 To add a Library / Tool:
 
   - Add a line to this list by creating a new pull request
-  - Line format: ` - [npm-package-name](https://github.com/foo/bar) - Short description without emojis.`
+  - Line format: ` - [npm-package-name](https://github.com/foo/bar) - Description without emojis.`
   - Add the line at the end of a section
   - If it doesn't fit any section then open a new issue so we can discuss creating a new section
 
-There is no format for the learn section.
+There is no format for the learning section.
 
 ###### Collaboration
 
@@ -19,7 +19,7 @@ I'm open to maintain this list with others. We could create a GitHub organizatio
 
 
 #### Contents
-- [Learn Material](#learn-material)
+- [Learning Material](#learning-material)
 - [Code Architecture](#code-architecture)
 - [Utilities](#utilities)
 - [Code Style](#code-style)
@@ -34,7 +34,7 @@ I'm open to maintain this list with others. We could create a GitHub organizatio
 ---
 
 
-# Learn Material
+# Learning Material
 
  - **Redux's concepts**
 
