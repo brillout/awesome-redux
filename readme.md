@@ -1,17 +1,14 @@
 ## Awesome Redux [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Curated List of Redux Libraries / Tools / Learning Material.
+[<img src="https://rawgit.com/brillout/awesome-redux/master/redux-logo.svg" align="right" width="100">](http://redux.js.org/)
+
+> Redux is a predictable state container for JavaScript apps.
+
+Curated list of Redux Libraries / Tools / Learning Material.
 
 ###### Contribution
 
-To add a Library / Tool:
-
-  - Add a line to this list by creating a new pull request
-  - Line format: ` - [npm-package-name](https://github.com/foo/bar) - Description without emojis.`
-  - Add the line at the end of a section
-  - If it doesn't fit any section then open a new issue so we can discuss creating a new section
-
-There is no format for the learning section.
+Contributions welcome. Read the [contribution guidelines](contributing.md).
 
 ###### Collaboration
 
