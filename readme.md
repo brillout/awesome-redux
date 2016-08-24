@@ -1,12 +1,10 @@
 # Awesome Redux [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://rawgit.com/brillout/awesome-redux/master/redux-logo.svg" align="right" width="150">](http://redux.js.org/)
+[<img src="https://rawgit.com/brillout/awesome-redux/master/redux-logo.svg" align="right" width="110">](http://redux.js.org/)
 
 > Redux is a predictable state container for JavaScript apps.
 
 Curated list of Redux Libraries / Tools / Learning Material.
-
-###### Contribution
 
 Contributions welcome. Read the [contribution guidelines](contributing.md).
 
