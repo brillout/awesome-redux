@@ -88,7 +88,7 @@ If you are curious for more, check out following resources.
  - [reselect](https://github.com/reactjs/reselect) - Selector library for Redux.
  - [redux-requests](https://github.com/idolize/redux-requests) - Manages in-flight requests with a Redux reducer to avoid issuing duplicate requests.
  - [redux-undo](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to Redux state containers.
- - [redux-bug-reporter](https://github.com/dtschust/redux-bug-reporter) - A bug reporter and bug playback tool for Redux.
+ - [redux-bug-reporter](https://github.com/dtschust/redux-bug-reporter) - Bug reporter and bug playback tool for Redux.
 
 
 ### Store Persistence
@@ -191,7 +191,7 @@ If you are curious for more, check out following resources.
 
 ### Electron
 
- - [redux-electron-store](https://github.com/samiskin/redux-electron-store) - A Redux store enhancer that allows automatic synchronization between electron processes.
+ - [redux-electron-store](https://github.com/samiskin/redux-electron-store) - Redux store enhancer that allows automatic synchronization between electron processes.
 
 
 ### Deku
@@ -202,7 +202,7 @@ If you are curious for more, check out following resources.
 ### Other
 
  - [redux-rollbar-middleware](https://github.com/netguru/redux-rollbar-middleware) - Redux middleware that wraps exceptions in actions and sends them to Rollbar with current state.
- - [kasia](https://github.com/outlandishideas/kasia) - A React Redux toolset for the WordPress API.
+ - [kasia](https://github.com/outlandishideas/kasia) - React Redux toolset for the WordPress API.
 
 
 ## Boilerplate
