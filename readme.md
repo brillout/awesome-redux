@@ -114,7 +114,7 @@ If you are curious for more, check out following resources.
 
 ## Code Style
 
-*Aims to make parts of the source code easier to read and/or write.*
+*Aims to make parts of the source code easier to read/write.*
 
  - [redux-act](https://github.com/pauldijou/redux-act) - Opinionated lib to create actions and reducers for Redux.
  - [redux-crud](https://github.com/Versent/redux-crud) - Set of standard actions and reducers for Redux CRUD Applications.
