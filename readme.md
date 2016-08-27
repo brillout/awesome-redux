@@ -2,7 +2,7 @@
 
 [<img src="https://rawgit.com/brillout/awesome-redux/master/redux-logo.svg" align="right" width="153">](http://redux.js.org/)
 
-> Redux is a predictable state container for JavaScript apps.
+> Redux is a state container for JavaScript apps.
 
 Curated list of Redux Libraries / Tools / Learning Material.
 
