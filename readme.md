@@ -34,6 +34,10 @@ Contributions welcome. Read the [contribution guidelines](contributing.md).
 
     The [guide on performance](https://facebook.github.io/react/docs/advanced-performance.html) of React's official documentation explains well what immutable data structures are and why they play an important role.
 
+ - **Redux for Beginners**
+
+    A [project-based tutorial](https://github.com/kripod/redux-for-beginners) which aims to provide an opinionated set of good practices to minimize the effort required to set up and maintain a Redux project which uses React as its user interface library.
+
  - **Side Effects**
 
     [Redux Loop's readme](https://github.com/redux-loop/redux-loop) gives a good insight on Side Effects in the context of Redux.
