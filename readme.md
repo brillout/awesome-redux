@@ -83,6 +83,7 @@ If you are curious for more, check out following resources.
  - [redux-requests](https://github.com/idolize/redux-requests) - Manages in-flight requests with a Redux reducer to avoid issuing duplicate requests.
  - [redux-undo](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to Redux state containers.
  - [redux-bug-reporter](https://github.com/dtschust/redux-bug-reporter) - Bug reporter and bug playback tool for Redux.
+ - [redux-transducers](https://github.com/acdlite/redux-transducers) - Transducer utilities for Redux.
 
 
 ### Store Persistence
