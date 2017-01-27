@@ -104,6 +104,7 @@ If you are curious for more, check out following resources.
  - [redux-side-effects](https://github.com/salsita/redux-side-effects) - Redux toolset for keeping all the side effects inside your reducers while maintaining their purity.
  - [redux-logic](https://github.com/jeffbski/redux-logic) - Redux middleware for organizing business logic and action side effects.
  - [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using &quot;Epics&quot;.
+ - [redux-ship](https://github.com/clarus/redux-ship) - Composable, testable and typable side effects.
 
 
 ## Code Style
@@ -225,4 +226,3 @@ If you are curious for more, check out following resources.
 - [Slack](http://slack.redux.io/)
 - [Gitter](https://gitter.im/reactjs/redux)
 - [`#rackt` on freenode](https://webchat.freenode.net/)
-
