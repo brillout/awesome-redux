@@ -1,17 +1,7 @@
-# Contribution Guidelines
+To add a library, add an entry at [devarchy.com/redux](http://devarchy.com/redux).
+<br/>
+It will be added to the catalog once enough users have approved it.
 
-Note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md).
-By participating in this project you agree to abide by its terms.
+If a library doesn't fit any category, then create an issue.
 
--
-
-Contribution guidelines:
-
-- Make an individual pull request for each suggestion.
-- Use the following format for adding a tool: ` - [npm-package-name](https://github.com/foo/bar) - Description without emojis.`.
-- There is no format for the learning section.
-- Your addition should be added to the bottom of the relevant section.
-- If it doesn't fit any category then open a new issue so we can discuss improving the categorization.
-- Check your spelling and grammar.
-- If you just created something, wait at least a couple of weeks before submitting it.
-- All texts should be translated to English.
+Also create an issue if you would like to suggest improvements to the categorization.

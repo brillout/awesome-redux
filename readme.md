@@ -1,4 +1,4 @@
-# Redux Libraries [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Redux Library Catalog [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/brillout/awesome-redux/master/redux-logo.svg" align="right" width="110">](http://redux.js.org/)
 
@@ -22,40 +22,6 @@
 - [Community](#community)
 
 ---
-
-## Learning Material
-
- - **Redux's concepts**
-
-    [Redux official documentation](http://redux.js.org/) does a great job at explaining Redux's core principles.
-
- - **Why immutable data structures**
-
-    The [guide on performance](https://facebook.github.io/react/docs/advanced-performance.html) of React's official documentation explains well what immutable data structures are and why they play an important role.
-
- - **Side Effects**
-
-    [Redux Loop's readme](https://github.com/redux-loop/redux-loop) gives a good insight on Side Effects in the context of Redux.
-
-Reading the aforementioned material will get you a good start for writing apps with Redux.
-If you are curious for more, check out following resources.
-
- - **Functional Programming - Basics**
-
-    This [post](http://jaysoo.ca/2016/01/13/functional-programming-little-ideas/) goes over basic concepts of functional programming while building a YouTube instant search demo app.
-
- - **Reactive Programming**
-
-    This [introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) explains Reactive Programming with clarity.
-
- - **Functional Programming - Going beyond**
-
-    Well written [article](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504) that talks about interesting computer science concepts implemented in functional languages and how these apply to JavaScript.
-
- - **Monads**
-
-    Curious about monads? Wikipedia gives a good [overview on monads](https://en.wikipedia.org/wiki/Monad_(functional_programming)) and [this article](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) explains monads in more details with graphics and simple examples.
-
 
 
 ## Code Architecture
@@ -218,6 +184,41 @@ If you are curious for more, check out following resources.
 
  - [redux-core](https://github.com/jas-chen/redux-core) - Minimal Redux.
 
+
+## Learning Material
+
+ - **Redux's concepts**
+
+    [Redux official documentation](http://redux.js.org/) does a great job at explaining Redux's core principles.
+
+ - **Why immutable data structures**
+
+    The [guide on performance](https://facebook.github.io/react/docs/advanced-performance.html) of React's official documentation explains well what immutable data structures are and why they play an important role.
+
+ - **Side Effects**
+
+    [Redux Loop's readme](https://github.com/redux-loop/redux-loop) gives a good insight on Side Effects in the context of Redux.
+
+Reading the aforementioned material will get you a good start for writing apps with Redux.
+If you are curious for more, check out following resources.
+
+ - **Functional Programming - Basics**
+
+    This [post](http://jaysoo.ca/2016/01/13/functional-programming-little-ideas/) goes over basic concepts of functional programming while building a YouTube instant search demo app.
+
+ - **Reactive Programming**
+
+    This [introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) explains Reactive Programming with clarity.
+
+ - **Functional Programming - Going beyond**
+
+    Well written [article](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504) that talks about interesting computer science concepts implemented in functional languages and how these apply to JavaScript.
+
+ - **Monads**
+
+    Curious about monads? Wikipedia gives a good [overview on monads](https://en.wikipedia.org/wiki/Monad_(functional_programming)) and [this article](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) explains monads in more details with graphics and simple examples.
+
+
 ## Community
 
 - [Reddit](https://www.reddit.com/r/reduxjs/)
@@ -226,3 +227,4 @@ If you are curious for more, check out following resources.
 - [Slack](http://slack.redux.io/)
 - [Gitter](https://gitter.im/reactjs/redux)
 - [`#rackt` on freenode](https://webchat.freenode.net/)
+
