@@ -1,17 +1,15 @@
-# Awesome Redux [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Redux Libraries [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/brillout/awesome-redux/master/redux-logo.svg" align="right" width="110">](http://redux.js.org/)
 
 > Redux is a state container for JavaScript apps.
 
-Curated list of Redux Libraries / Tools / Learning Material.
-
-Contributions welcome. Read the [contribution guidelines](contributing.md).
+ - Official website: [`devarchy.com/redux`](http://devarchy.com/redux)
+ - Use devarchy to add a library to the catalog
 
 -
 
 #### Contents
-- [Learning Material](#learning-material)
 - [Code Architecture](#code-architecture)
 - [Utilities](#utilities)
 - [Code Style](#code-style)
@@ -20,6 +18,7 @@ Contributions welcome. Read the [contribution guidelines](contributing.md).
 - [Other Integrations](#other-integrations)
 - [Boilerplate](#boilerplate)
 - [Miscellaneous](#miscellaneous)
+- [Learning Material](#learning-material)
 - [Community](#community)
 
 ---
