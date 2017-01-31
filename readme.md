@@ -6,6 +6,7 @@
 
  - Official website: [`devarchy.com/redux`](http://devarchy.com/redux)
  - Use devarchy to add a library to the catalog
+ - Check out the [Frontend Catalog](https://github.com/devarchy/frontend-catalog) for React libraries and more
 
 -
 
