@@ -1,7 +1,3 @@
-To add a library, add an entry at [devarchy.com/redux](http://devarchy.com/redux).
-<br/>
-It will be added to the catalog once enough users have approved it.
-
-If a library doesn't fit any category, then create an issue.
-
-Also create an issue if you would like to suggest improvements to the categorization.
+* Don't create a pull request to add a library, instead use [devarchy.com/redux](http://devarchy.com/redux).
+* Only create a pull request to change the categorization.
+* Open an issue if you are not sure how to change the categorization to fit a library you want to add.
