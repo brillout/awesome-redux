@@ -4,7 +4,7 @@
 
 > Redux is a state container for JavaScript apps.
 
- - Official website: [`devarchy.com/redux`](http://devarchy.com/redux)
+ - Official website: [`devarchy.com/redux`](https://devarchy.com/redux)
  - Use devarchy to add a library to the catalog
 
 -
