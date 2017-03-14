@@ -6,8 +6,8 @@
 
  - Official website: [`devarchy.com/redux`](https://devarchy.com/redux)
  - Use devarchy to add a library to the catalog
-
--
+ 
+ <br/>
 
 #### Contents
 - [Code Architecture](#code-architecture)
@@ -21,8 +21,7 @@
 - [Learning Material](#learning-material)
 - [Community](#community)
 
----
-
+<br/>
 
 ## Code Architecture
 
