@@ -30,7 +30,7 @@
  - [redux-schema](https://github.com/ddsol/redux-schema) - Automatic actions, reducers and validation for Redux.
  - [redux-tcomb](https://github.com/gcanti/redux-tcomb) - Immutable and type-checked state and actions for Redux.
  - [redux-action-tree](https://github.com/cerebral/redux-action-tree) - The Cerebral signals running with Redux.
- - [redux-elm](https://github.com/salsita/redux-elm) - The Elm Architecture in JavaScript.
+ - [redux-prism](https://github.com/salsita/prism) - React / Redux action composition made simple.
 
 
 ## Utilities
