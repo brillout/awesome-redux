@@ -35,6 +35,7 @@
 
 ## Utilities
 
+ - [entities-reducer](https://github.com/kwelch/entities-reducer) - High order reducer to handle updates to entities from normalizr actions
  - [redux-orm](https://github.com/tommikaikkonen/redux-orm) - Small, simple and immutable ORM to manage relational data in your Redux store.
  - [redux-api-middleware](https://github.com/agraboso/redux-api-middleware) - Redux middleware for calling an API.
  - [redux-ignore](https://github.com/omnidan/redux-ignore) - Higher-order reducer to ignore Redux actions.
