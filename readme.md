@@ -189,6 +189,9 @@
  - **Redux's concepts**
 
     [Redux official documentation](http://redux.js.org/) does a great job at explaining Redux's core principles.
+    
+ - **Curated Redux Resources**
+    [Programming Community Curated Resources For Learning Redux](https://hackr.io/tutorials/learn-redux)
 
  - **Why immutable data structures**
 
