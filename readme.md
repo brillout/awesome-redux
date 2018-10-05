@@ -189,6 +189,7 @@
  - **Redux's concepts**
 
     [Redux official documentation](http://redux.js.org/) does a great job at explaining Redux's core principles.
+    [Human Redux](https://read.reduxbook.com/) offers detailed reasonings on Redux's core concepts and how to apply the concepts and patterns to scale your application.
 
  - **Why immutable data structures**
 
