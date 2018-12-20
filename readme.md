@@ -129,7 +129,7 @@
 
  - [redux-actions](https://github.com/acdlite/redux-actions) - Flux Standard Action utilities for Redux.
  - [redux-promise](https://github.com/acdlite/redux-promise) - FSA-compliant promise middleware for Redux.
-
+ - [redux-lightweight](https://github.com/doniyor2109/redux-lightweight) - Generates actions, action types and reducer from class
 
 ### Backbone
 
